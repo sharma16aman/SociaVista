@@ -1,1 +1,1 @@
-# SociaVista
+SociaVista -  MERN Stack application .
